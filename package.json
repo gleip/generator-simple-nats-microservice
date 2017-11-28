@@ -1,0 +1,20 @@
+{
+  "name": "generator-simple-nats-microservice",
+  "version": "0.1.0",
+  "description": "Simple generator for creating microservice on for Nats",
+  "repository": "git://github.com/gleip/SimpleNatsMicroservice",
+  "files": [
+    "app"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "gLeip",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^2.0.0"
+  }
+}
