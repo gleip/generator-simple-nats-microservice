@@ -1,8 +1,8 @@
 {
   "name": "generator-simple-nats-microservice",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple generator for creating microservice on for Nats",
-  "repository": "git://github.com/gleip/SimpleNatsMicroservice",
+  "repository": "git://github.com/gleip/generator-simple-nats-microservice",
   "files": [
     "app"
   ],
